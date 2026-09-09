@@ -1,0 +1,152 @@
+[
+    {
+        "cliente_id": 1,
+        "nome": "Ana",
+        "estado": "SP"
+    },
+    {
+        "cliente_id": 2,
+        "nome": "Bruno",
+        "estado": "RJ"
+    },
+    {
+        "cliente_id": 3,
+        "nome": "Carla",
+        "estado": "MG"
+    },
+    {
+        "cliente_id": 4,
+        "nome": "Daniel",
+        "estado": "RS"
+    },
+    {
+        "cliente_id": 5,
+        "nome": "Eduardo",
+        "estado": "PR"
+    },
+    {
+        "cliente_id": 6,
+        "nome": "Fernanda",
+        "estado": "SC"
+    },
+    {
+        "cliente_id": 7,
+        "nome": "Gabriel",
+        "estado": "BA"
+    },
+    {
+        "cliente_id": 8,
+        "nome": "Helena",
+        "estado": "PE"
+    },
+    {
+        "cliente_id": 9,
+        "nome": "Igor",
+        "estado": "CE"
+    },
+    {
+        "cliente_id": 10,
+        "nome": "Juliana",
+        "estado": "GO"
+    },
+    {
+        "cliente_id": 11,
+        "nome": "Lucas",
+        "estado": "SP"
+    },
+    {
+        "cliente_id": 12,
+        "nome": "Mariana",
+        "estado": "RJ"
+    },
+    {
+        "cliente_id": 13,
+        "nome": "Nicolas",
+        "estado": "MG"
+    },
+    {
+        "cliente_id": 14,
+        "nome": "Olivia",
+        "estado": "RS"
+    },
+    {
+        "cliente_id": 15,
+        "nome": "Paulo",
+        "estado": "PR"
+    },
+    {
+        "cliente_id": 16,
+        "nome": "Rafaela",
+        "estado": "SC"
+    },
+    {
+        "cliente_id": 17,
+        "nome": "Sergio",
+        "estado": "BA"
+    },
+    {
+        "cliente_id": 18,
+        "nome": "Tatiana",
+        "estado": "PE"
+    },
+    {
+        "cliente_id": 19,
+        "nome": "Ulisses",
+        "estado": "CE"
+    },
+    {
+        "cliente_id": 20,
+        "nome": "Vanessa",
+        "estado": "GO"
+    },
+    {
+        "cliente_id": 21,
+        "nome": "Wagner",
+        "estado": "DF"
+    },
+    {
+        "cliente_id": 22,
+        "nome": "Xavier",
+        "estado": "ES"
+    },
+    {
+        "cliente_id": 23,
+        "nome": "Yasmin",
+        "estado": "MS"
+    },
+    {
+        "cliente_id": 24,
+        "nome": "Zeca",
+        "estado": "MT"
+    },
+    {
+        "cliente_id": 25,
+        "nome": "Alice",
+        "estado": "PA"
+    },
+    {
+        "cliente_id": 26,
+        "nome": "Bernardo",
+        "estado": "AM"
+    },
+    {
+        "cliente_id": 27,
+        "nome": "Camila",
+        "estado": "RN"
+    },
+    {
+        "cliente_id": 28,
+        "nome": "Diego",
+        "estado": "PB"
+    },
+    {
+        "cliente_id": 29,
+        "nome": "Elisa",
+        "estado": "AL"
+    },
+    {
+        "cliente_id": 30,
+        "nome": "Felipe",
+        "estado": "SE"
+    }
+]
